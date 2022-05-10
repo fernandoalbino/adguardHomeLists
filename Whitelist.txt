@@ -1,0 +1,83 @@
+# Instagram
+@@||cdninstagram.com^$important
+@@||instagram.com^$important
+@@||instagram.c10r.facebook.com^$important
+@@||i.instagram.com^$important
+@@||scontent-*.cdninstagram.com^$important
+@@||scontent.cdninstagram.com^$important
+@@||graph.instagram.com^$important
+@@||instagram.*.facebook.com^$important
+# WhatsApp
+@@||whatsapp.net^$important
+@@||whatsapp.com^$important
+# Pinterest
+@@||pinterest.com^$important
+# Netflix
+@@||api-global.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||appboot.netflix.com^$important
+@@||secure.netflix.com^$important
+# Shopify.com eCommerce Software
+@@||v.shopify.com^$important
+@@||s.shopify.com^$important
+# Malwarebytes Anti-Malware
+@@||keystone.mwbsys.com^$important
+# Aliexpress.com
+@@||login.aliexpress.com^$important
+# Wordpress
+@@||wp.com^$important
+@@||wordpress.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# No-IP.com
+@@||no-ip.com^$important
+# Twitter
+@@||twimg.com^$important
+@@||twitter.com^$important
+@@||t.co^$important
+# Linux
+@@||archlinux.org^$important
+@@||canonical.com^$important
+@@||centos.ca-west.mirror.fullhost.io^$important
+@@||centos.melbourneitmirror.net^$important
+@@||centos.mirror.colo-serv.net^$important
+@@||centos.mirror.garr.it^$important
+@@||centos.mirror.liquidtelecom.com^$important
+@@||centos.mirror.serversaustralia.com.au^$important
+@@||centos.mirrors.theom.nz^$important
+@@||centos.org^$important
+@@||centos.serverforge.org^$important
+@@||centos.vwtonline.net^$important
+@@||clearos.bhs.mirrors.ovh.net^$important
+@@||clearos.com^$important
+@@||clearos.mirrors.ovh.net^$important
+@@||clearos.uberglobalmirror.com^$important
+@@||clearsdn.com^$important
+@@||debian.map.fastlydns.net^$important
+@@||debian.org^$important
+@@||fedorapeople.org^$important
+@@||fedoraproject.org^$important
+@@||freebsd.org^$important
+@@||getfedora.org^$important
+@@||jboss.org^$important
+@@||launchpad.net^$important
+@@||linuxmint.com^$important
+@@||mirrorlist.centos.org^$important
+@@||opensuse.org^$important
+@@||redhat.com^$important
+@@||redhat.io^$important
+@@||snapcraft.io^$important
+@@||softwarecollections.org^$important
+@@||susecloud.net^$important
+@@||ubuntu.com^$important
+@@||virtualbox.org^$important
