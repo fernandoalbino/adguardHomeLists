@@ -81,3 +81,9 @@
 @@||susecloud.net^$important
 @@||ubuntu.com^$important
 @@||virtualbox.org^$important
+steamcommunity.com
+steamcontent.com
+steampowered.com
+steamstatic.com
+steamusercontent.com
+valvesoftware.com
