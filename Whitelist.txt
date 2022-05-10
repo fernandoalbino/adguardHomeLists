@@ -88,6 +88,7 @@ steamstatic.com
 steamusercontent.com
 valvesoftware.com
 vimeocdn.com
+vimeo.com
 @@||bam-cell.nr-data.net^$important
 @@||*.vimeo.com^$important
 @@||*.vimeocdn.com^$important
