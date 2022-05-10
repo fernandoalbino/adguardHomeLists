@@ -87,3 +87,4 @@ steampowered.com
 steamstatic.com
 steamusercontent.com
 valvesoftware.com
+@@||bam-cell.nr-data.net^$important
