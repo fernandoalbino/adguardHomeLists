@@ -91,3 +91,4 @@ vimeocdn.com
 @@||bam-cell.nr-data.net^$important
 @@||*.vimeo.com^$important
 @@||*.vimeocdn.com^$important
+@@||f.vimeocdn.com^$important
