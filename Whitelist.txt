@@ -41,10 +41,11 @@
 @@||ns2.dropbox.com^$important
 # No-IP.com
 @@||no-ip.com^$important
-# Twitter
+# Twitter X
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
+@@||x.com/^$important
 # Linux
 @@||archlinux.org^$important
 @@||canonical.com^$important
