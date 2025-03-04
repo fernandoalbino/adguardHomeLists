@@ -94,3 +94,5 @@ vimeo.com
 @@||*.vimeo.com^$important
 @@||*.vimeocdn.com^$important
 @@||f.vimeocdn.com^$important
+@@nubank.com.br
+@@*.nubank.com.br
